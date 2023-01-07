@@ -1,6 +1,6 @@
  **Color-Flipper**
  
-_It is an web app to change background color._
+_A web app to change background color._
 
 it is made of using :
 1. HTML
