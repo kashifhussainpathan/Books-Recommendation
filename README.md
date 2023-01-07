@@ -1,4 +1,4 @@
- 	`#0969DA` **color-flipper**
+ **Color-Flipper**
 _It is an web app to change background color._
 
 it is made of using :
