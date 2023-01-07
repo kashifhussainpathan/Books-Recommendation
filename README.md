@@ -7,3 +7,4 @@ it is made of using :
 2. CSS
 3. JavaScript
 
+> if you like it please give a ⭐
